@@ -24,14 +24,15 @@
 
 ## Study Log
 2021.09.07 [스위프트란](https://h1guitar.tistory.com/13)  
-2021.09.25 기본 개발지식 학습 : [깃허브란?](https://h1guitar.tistory.com/30?category=962956)
-2021.09.26 기본 개발지식 학습 : [깃허브의 메뉴소개 및 로컬저장소, 이슈관리](https://h1guitar.tistory.com/31?category=962956)
-2021.09.26 스위프트문법 : [명명법 / 콘솔로그 / 문자열 보간법](https://h1guitar.tistory.com/32)
-2021.09.26 스위프트문법 : [상수와 변수](https://h1guitar.tistory.com/33)
-2021.09.26 스위프트문법 : [기본 데이터 타입](https://h1guitar.tistory.com/34)
-
-
-
+2021.09.25 기본 개발지식 학습 : [깃허브란?](https://h1guitar.tistory.com/30?category=962956)  
+2021.09.26 기본 개발지식 학습 : [깃허브의 메뉴소개 및 로컬저장소, 이슈관리](https://h1guitar.tistory.com/31?category=962956)  
+2021.09.26 스위프트문법 : [명명법 / 콘솔로그 / 문자열 보간법](https://h1guitar.tistory.com/32)  
+2021.09.26 스위프트문법 : [상수와 변수](https://h1guitar.tistory.com/33)  
+2021.09.26 스위프트문법 : [기본 데이터 타입](https://h1guitar.tistory.com/34)  
+2021.09.27 스위프트문법 : [Any, AnyObject, nil](https://h1guitar.tistory.com/36?category=959106)  
+2021.09.27 스위프트문법 : [컬렉션 타입 (Array, Dictionary, Set) ](https://h1guitar.tistory.com/37?category=959106)  
+2021.09.27 중간점검 및 학습목표 보강 [[법칙 3] 직접 하기 → 실천편](https://h1guitar.tistory.com/38)  
+2021.09.27 [(업데이트) 개발공부 플랜 (21.09.27)](https://h1guitar.tistory.com/39)
 
 
 
