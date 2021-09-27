@@ -1,6 +1,9 @@
 # ultraLearningiOS
 
 ## Ultra Learning Project : Being Developer
+### 현재 진행상태 : [Study Log](https://github.com/wisehyun0814/ultraLearningiOS/blob/main/contents/00_study_log/study_log.md)  
+
+--- 
 
 ### 울트라러닝이란
 
