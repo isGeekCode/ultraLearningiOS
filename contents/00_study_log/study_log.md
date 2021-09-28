@@ -32,9 +32,9 @@
 2021.09.27 스위프트문법 : [Any, AnyObject, nil](https://h1guitar.tistory.com/36?category=959106)  
 2021.09.27 스위프트문법 : [컬렉션 타입 (Array, Dictionary, Set) ](https://h1guitar.tistory.com/37?category=959106)  
 2021.09.27 중간점검 및 학습목표 보강 [[법칙 3] 직접 하기 → 실천편](https://h1guitar.tistory.com/38)  
-2021.09.27 [(업데이트) 개발공부 플랜 (21.09.27)](https://h1guitar.tistory.com/39)
-2021.09.28 스위프트문법 : [코멘트](https://h1guitar.tistory.com/40)
-2021.09.28 스위프트문법 : [튜플]()
+2021.09.27 [(업데이트) 개발공부 플랜 (21.09.27)](https://h1guitar.tistory.com/39)  
+2021.09.28 스위프트문법 : [코멘트](https://h1guitar.tistory.com/40)  
+2021.09.28 스위프트문법 : [튜플](https://h1guitar.tistory.com/41)  
 2021.09.28 스위프트문법 : [불리안]()
 2021.09.28 스위프트문법 : [스코프]()
 
