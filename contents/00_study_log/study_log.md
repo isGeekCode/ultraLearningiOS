@@ -36,7 +36,7 @@
 2021.09.28 스위프트문법 : [코멘트](https://h1guitar.tistory.com/40)  
 2021.09.28 스위프트문법 : [튜플](https://h1guitar.tistory.com/41)  
 2021.09.28 스위프트문법 : [불리안](https://h1guitar.tistory.com/42)  
-2021.09.28 스위프트문법 : [스코프]()
+2021.09.28 스위프트문법 : [스코프](https://h1guitar.tistory.com/43)  
 
 
 
