@@ -38,7 +38,8 @@
 2021.09.28 스위프트문법 : [불리안](https://h1guitar.tistory.com/42)  
 2021.09.28 스위프트문법 : [스코프](https://h1guitar.tistory.com/43)  
 2021.09.29 스위프트문법 : [Flow Control](https://h1guitar.tistory.com/44)
-    
+2021.09.29 스위프트문법 : [Flow Control-(반복문) While & Repeat](https://h1guitar.tistory.com/45)
+
 
 
 
