@@ -41,6 +41,11 @@
 2021.09.29 스위프트문법 : [Flow Control-(반복문) While & Repeat](https://h1guitar.tistory.com/45)  
 2021.09.29 스위프트문법 : [Flow Control-(반복문) for - in Loop & Where](https://h1guitar.tistory.com/46)  
 2021.09.29 스위프트문법 : [Flow Control-(조건문) Switch](https://h1guitar.tistory.com/47)  
+2021.09.30 알고리즘 : [백준 (단계별로 풀어보기) 입출력과 사칙연산(1)](https://h1guitar.tistory.com/category/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
+2021.09.30 스위프트문법 : [Function](https://nylonguitarist.notion.site/ch04-01-Function-6f0b6b02e19840229c4821888e6ffea1)  
+2021.09.30 스위프트문법 : [현재까지 배운 문법 정리](https://www.notion.so/nylonguitarist/Quick-Summary-635d3736ea9f49a69fb68186c26c0d04)  
+
+
 
 
 
