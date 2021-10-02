@@ -26,7 +26,7 @@
 2021.09.07 [스위프트란](https://h1guitar.tistory.com/13)  
 2021.09.25 기본 개발지식 학습 : [깃허브란?](https://h1guitar.tistory.com/30?category=962956)  
 2021.09.26 기본 개발지식 학습 : [깃허브의 메뉴소개 및 로컬저장소, 이슈관리](https://h1guitar.tistory.com/31?category=962956)  
-2021.09.26 스위프트문법 : [명명법 / 콘솔로그 / 문자열 보간법](https://h1guitar.tistory.com/32) *(21.10.01수정)*
+2021.09.26 스위프트문법 : [명명법 / 콘솔로그 / 문자열 보간법](https://h1guitar.tistory.com/32) *(21.10.01수정)*  
 2021.09.26 스위프트문법 : [상수와 변수](https://h1guitar.tistory.com/33)  
 2021.09.26 스위프트문법 : [기본 데이터 타입](https://h1guitar.tistory.com/34)  
 2021.09.27 스위프트문법 : [Any, AnyObject, nil](https://h1guitar.tistory.com/36?category=959106)  
@@ -45,10 +45,8 @@
 2021.09.30 스위프트문법 : [Function](https://nylonguitarist.notion.site/ch04-01-Function-6f0b6b02e19840229c4821888e6ffea1)  
 2021.09.30 스위프트문법 : [현재까지 배운 문법 정리](https://www.notion.so/nylonguitarist/Quick-Summary-635d3736ea9f49a69fb68186c26c0d04)  
 2021.10.01 스위프트문법 : [플로우 컨트롤 복습하기 (21.09.5주)](https://h1guitar.tistory.com/49)  
-
-2021.10.01 중간점검 및 학습목표 보강 [(중간점검) 문법 공부 중 느낀 점](https://h1guitar.tistory.com/51)
-
-
+2021.10.02 중간점검 및 학습목표 보강 [(중간점검) 문법 공부 중 느낀 점](https://h1guitar.tistory.com/51)  
+2021.10.02 스위프트문법 : [9월 5주 정리 플로우 컨트롤 복습](https://h1guitar.tistory.com/52)  
 
 ---
 
