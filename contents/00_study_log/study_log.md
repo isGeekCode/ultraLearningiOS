@@ -48,7 +48,8 @@
 2021.10.02 중간점검 및 학습목표 보강 [(중간점검) 문법 공부 중 느낀 점](https://h1guitar.tistory.com/51)  
 2021.10.02 스위프트문법 : [21.9월.5주 복습(토) - 플로우 컨트롤](https://h1guitar.tistory.com/52)  
 2021.10.03 스위프트문법 : [21.9월.5주 복습(일) - 플로우 컨트롤](https://h1guitar.tistory.com/53)  
-2021.10.04 스위프트문법 : [21.9월.5주 복습(월) - 플로우 컨트롤](https://h1guitar.tistory.com/54)  
+2021.10.04 스위프트문법 : [함수 기본](https://h1guitar.tistory.com/55)  
+
 
 ---
 
