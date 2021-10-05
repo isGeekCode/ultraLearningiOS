@@ -51,6 +51,7 @@
 2021.10.04 스위프트문법 : [21.9월.5주 복습(월) - 플로우 컨트롤](https://h1guitar.tistory.com/54)  
 2021.10.04 스위프트문법 : [함수 기본](https://h1guitar.tistory.com/55)  
 2021.10.05 스위프트문법 : [함수 응용하기](https://h1guitar.tistory.com/56)(아침공부)(저녁공부)  
+2021.10.05 스위프트문법 : [기본함수사용능력 테스트](https://h1guitar.tistory.com/57)(아침공부)  
 
 
 ---
