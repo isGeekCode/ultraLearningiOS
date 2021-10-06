@@ -15,6 +15,7 @@
 2021.09.25 [[법칙2] 집중하기 : 짧은 시간에 집중도를 높여라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-2/)  
 2021.09.25 [[법칙3] 직접하기: 목표를 향해 똑바로 나아가라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-3/)  
 2021.09.27 [[법칙4] 특화학습 : 취약점을 공략하라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-4/)  
+2021.10.06 비전탐색 : [내 비전 생각하기](https://h1guitar.tistory.com/59)
 
 
 ## iOS개발자에 대한 메타학습
@@ -51,7 +52,9 @@
 2021.10.04 스위프트문법 : [21.9월.5주 복습(월) - 플로우 컨트롤](https://h1guitar.tistory.com/54)  
 2021.10.04 스위프트문법 : [함수 기본](https://h1guitar.tistory.com/55)  
 2021.10.05 스위프트문법 : [함수 응용하기](https://h1guitar.tistory.com/56)(아침공부)(저녁공부)  
-2021.10.05 스위프트문법 : [기본함수사용능력 테스트](https://h1guitar.tistory.com/57)(아침공부)(점심공부)  
+2021.10.06 스위프트문법 : [기본함수사용능력 테스트](https://h1guitar.tistory.com/57)(아침공부)(점심공부)  
+2021.10.06 스위프트문법 : [함수의 고급기능](https://h1guitar.tistory.com/58)(아침공부)(점심공부)  
+2021.10.06 비전탐색 : [내 비전 생각하기](https://h1guitar.tistory.com/59)
 
 
 ---
