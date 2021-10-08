@@ -17,7 +17,6 @@
 2021.09.27 [[법칙4] 특화학습 : 취약점을 공략하라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-4/)  
 2021.10.06 비전탐색 : [내 비전 생각하기](https://h1guitar.tistory.com/59)
 
-
 ## iOS개발자에 대한 메타학습
 2021.09.24 [개발자가 알아야할 기본지식 탐색](https://nylonguitarist.notion.site/0c71b8ed55004fd7895767e07b914045)  
 2021.09.24 [내가 할수 있는 범위 안에서의 학습경로 탐색](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  
@@ -58,6 +57,7 @@
 2021.10.07 스위프트문법 : [함수의 고급기능(오버로드,In-out parameter,함수안에 함수를 넣기)](https://bit.ly/2YyjHav)(아침공부)   
 2021.10.07 스위프트문법 : [옵셔널&고급기능](https://bit.ly/3oKpbJU)(점심공부)(저녁공부)  
 2021.10.08 스위프트문법 : [옵셔널 도전과제](https://bit.ly/3uSJh5H)(아침공부)(점심공부)  
+2021.10.08 메타인지 : [21년9월습관피드백](https://bit.ly/3Dn7Ydz)
 
 
 ---
