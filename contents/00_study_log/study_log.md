@@ -54,11 +54,12 @@
 2021.10.06 스위프트문법 : [기본함수사용능력 테스트](https://h1guitar.tistory.com/57)(아침공부)(점심공부)  
 2021.10.06 스위프트문법 : [함수의 고급기능](https://bit.ly/2YyjHav)(아침공부)(점심공부)  
 2021.10.06 **비전탐색** : [내 비전 생각하기](https://bit.ly/3oGQHIj)  
-2021.10.07 스위프트문법 : [함수의 고급기능(오버로드,In-out parameter,함수안에 함수를 넣기)](https://bit.ly/2YyjHav)(아침공부)   
+2021.10.07 스위프트문법 : [함수의 고급기능(오버로드,In-out parameter,함수안에 함수를 넣기)](https://bit.ly/2YyjHav)(아침공부)  
 2021.10.07 스위프트문법 : [옵셔널&고급기능](https://bit.ly/3oKpbJU)(점심공부)(저녁공부)  
 2021.10.08 스위프트문법 : [옵셔널 도전과제](https://bit.ly/3uSJh5H)(아침공부)(점심공부)  
-2021.10.08 **메타인지** : [21년9월습관피드백](https://bit.ly/3Dn7Ydz)
-2021.10.09 스위프트문법 : [콜렉션](https://bit.ly/2Ywc04R)(점심공부)(저녁공부)  
+2021.10.08 **메타인지** : [21년9월습관피드백](https://bit.ly/3Dn7Ydz)  
+2021.10.09 스위프트문법 : [Collection-Array](https://bit.ly/2Ywc04R)(점심공부)(저녁공부)  
+2021.10.10 스위프트문법 : [Collection-Dictionary](https://bit.ly/3akq03Q)(아침공부)  
 
 ---
 
