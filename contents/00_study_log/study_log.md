@@ -61,9 +61,9 @@
 2021.10.09 스위프트문법 : [Collection-Array](https://bit.ly/2Ywc04R)(점심공부)(저녁공부)  
 2021.10.10 스위프트문법 : [Collection-Dictionary](https://bit.ly/3akq03Q)(아침공부)  
 2021.10.10 스위프트문법 : [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
+2021.10.10 스위프트문법 : [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)  
 
 
-https://h1guitar.tistory.com/64
 ---
 
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
