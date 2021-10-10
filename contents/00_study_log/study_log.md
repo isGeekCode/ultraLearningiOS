@@ -62,6 +62,7 @@
 2021.10.10 스위프트문법 : [Collection-Dictionary](https://bit.ly/3akq03Q)(아침공부)  
 2021.10.10 스위프트문법 : [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 2021.10.10 스위프트문법 : [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)  
+2021.10.11 스위프트문법 : [구조체와 클레스](https://bit.ly/3oPU93u)(아침공부)  
 
 
 ---
@@ -70,7 +71,6 @@
 
 
 ## 지식공유자
-
-### Gikko 방현석  
+Gikko 방현석  
 
 
