@@ -63,9 +63,9 @@
 2021.10.10 스위프트문법 : [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 2021.10.10 스위프트문법 : [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)  
 2021.10.11 스위프트문법 : [구조체와 클레스](https://bit.ly/3oPU93u)(아침공부)  
-2021.10.11 하루_피드백 : [211011(월)피드백](https://bit.ly/3ltHRvq)
+2021.10.11 하루_피드백 : [211011(월)피드백](https://bit.ly/3ltHRvq)  
+2021.10.12 스위프트문법 : [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)  
 
-https://bit.ly/3ltHRvq
 ---
 
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
