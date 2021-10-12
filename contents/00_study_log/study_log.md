@@ -64,9 +64,9 @@
 2021.10.10 스위프트문법 : [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)  
 2021.10.11 스위프트문법 : [구조체와 클래스](https://bit.ly/3oPU93u)(아침공부)  
 2021.10.11 하루_피드백 : [211011(월)피드백](https://bit.ly/3ltHRvq)  
-2021.10.12 스위프트문법 : [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)  
+2021.10.12 스위프트문법 : [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)(저녁공부)  
 2021.10.12 **서평** : [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)  
-
+2021.10.12 하루_피드백 : [211012(화)피드백](https://bit.ly/3DC5Gr1)  
 
 ---
 
