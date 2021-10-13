@@ -69,7 +69,10 @@
 2021.10.12 하루_피드백 : [211012(화)피드백](https://bit.ly/3DC5Gr1)  
 2021.10.13 스위프트문법 : [Protocol](https://bit.ly/30bFJjI)(아침공부)  
 2021.10.13 스위프트문법 : [Property](https://bit.ly/3lypfub)(아침공부)--> 진행중  
-2021.10.13 주간_피드백 : [습관추적지 _ 10월 2주차](https://bit.ly/3iSGwg0)  
+2021.10.13 주간_피드백 : [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)  
+2021.10.13 하루_피드백 : [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)  
+
+
 
 ---
 
