@@ -69,7 +69,7 @@
 | 2021.10.10 | 스위프트문법 | [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 | 2021.10.10 | 스위프트문법 | [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)   |
 | 2021.10.11 | 스위프트문법 | [구조체와 클래스](https://bit.ly/3oPU93u)(아침공부)   |
-| 2021.10.11 | *하루_피드백 * | [211011(월)피드백](https://bit.ly/3ltHRvq)   |
+| 2021.10.11 | * 하루_피드백 * | [211011(월)피드백](https://bit.ly/3ltHRvq)   |
 | 2021.10.12 | 스위프트문법 | [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)(저녁공부)   |
 | 2021.10.12 | * 서평 * | [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)   |
 | 2021.10.12 | * 하루_피드백 * | [211012(화)피드백](https://bit.ly/3DC5Gr1)   |
@@ -79,6 +79,11 @@
 | 2021.10.13 | * 하루_피드백 * | [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)   |
 | 2021.10.14 | 스위프트문법 | [Property:Stored,Computed,didSet,Lazy](https://bit.ly/3lypfub)(아침공부)   |
 | 2021.10.14 | 스위프트문법 | [Property VS Method](https://h1guitar.tistory.com/70)(낮공부)   |
+| 2021.10.14 | 스위프트문법 | [Method 개념 및 실습](https://h1guitar.tistory.com/71)(낮공부)(밤공부)   |
+| 2021.10.14 | * 하루_피드백 * | [211014(목)피드백](https://blog.naver.com/h1guitar/222537240039)   |
+| 2021.10.15 | 스위프트문법 | [Method 내용추가 extension](https://h1guitar.tistory.com/71)(아침공부)   |
+
+
 
 
 ---
