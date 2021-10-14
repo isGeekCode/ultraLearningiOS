@@ -63,17 +63,17 @@
 2021.10.10 스위프트문법 : [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 2021.10.10 스위프트문법 : [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)  
 2021.10.11 스위프트문법 : [구조체와 클래스](https://bit.ly/3oPU93u)(아침공부)  
-2021.10.11 <pre><code>하루_피드백</code></pre> : [211011(월)피드백](https://bit.ly/3ltHRvq)  
+2021.10.11 하루_피드백 : [211011(월)피드백](https://bit.ly/3ltHRvq)  
 2021.10.12 스위프트문법 : [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)(저녁공부)  
 2021.10.12 **서평** : [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)  
-2021.10.12 <pre><code>하루_피드백</code></pre> : [211012(화)피드백](https://bit.ly/3DC5Gr1)  
+2021.10.12 하루_피드백 : [211012(화)피드백](https://bit.ly/3DC5Gr1)  
 2021.10.13 스위프트문법 : [Protocol](https://bit.ly/30bFJjI)(아침공부)  
 2021.10.13 스위프트문법 : [Property](https://bit.ly/3lypfub)(아침공부)
-2021.10.13 <pre><code>주간_피드백</code></pre> : [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)  
-2021.10.13 <pre><code>하루_피드백</code></pre> : [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)  
+2021.10.13 주간_피드백 : [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)  
+2021.10.13 하루_피드백 : [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)  
 2021.10.14 스위프트문법 : [Property:Stored,Computed,didSet,Lazy](https://bit.ly/3lypfub)(아침공부)  
 2021.10.14 스위프트문법 : [Property VS Method](https://h1guitar.tistory.com/70)(낮공부)  
-<pre><code>{code}</code></pre>
+
 
 ---
 
