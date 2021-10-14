@@ -23,7 +23,10 @@
 2021.09.24 [개발자에 대한 학습동기](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  
 
 ## Study Log
-2021.09.07 [스위프트란](https://h1guitar.tistory.com/13)  
+| 날짜 | 분류 | 링크 |
+| :------------ | :-----------: | -------------------: |
+|2021.09.07 | 스위프트문법 | [스위프트란](https://h1guitar.tistory.com/13)|
+
 2021.09.25 기본 개발지식 학습 : [깃허브란?](https://h1guitar.tistory.com/30?category=962956)  
 2021.09.26 기본 개발지식 학습 : [깃허브의 메뉴소개 및 로컬저장소, 이슈관리](https://h1guitar.tistory.com/31?category=962956)  
 2021.09.26 스위프트문법 : [명명법 / 콘솔로그 / 문자열 보간법](https://h1guitar.tistory.com/32) *(21.10.01수정)*  
