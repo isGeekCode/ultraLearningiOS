@@ -43,7 +43,7 @@
 | 2021.09.29 | 스위프트문법 | [Flow Control-(반복문) While & Repeat](https://h1guitar.tistory.com/45)   |
 | 2021.09.29 | 스위프트문법 | [Flow Control-(반복문) for - in Loop & Where](https://h1guitar.tistory.com/46)   |
 | 2021.09.29 | 스위프트문법 | [Flow Control-(조건문) Switch](https://h1guitar.tistory.com/47)   |
-| 2021.09.30 | 알고리즘 : [백준 (단계별로 풀어보기) 입출력과 사칙연산(1)](https://bit.ly/3oDZQ4r)   |
+| 2021.09.30 | 알고리즘 | [백준 (단계별로 풀어보기) 입출력과 사칙연산(1)](https://bit.ly/3oDZQ4r)   |
 | 2021.09.30 | 스위프트문법 | [Function](https://bit.ly/3iGBL9k)   |
 | 2021.09.30 | 스위프트문법 | [현재까지 배운 문법 정리](https://bit.ly/2ZUgTVp)   |
 | 2021.10.01 | 스위프트문법 | [플로우 컨트롤 복습하기 (21.09.5주)](https://h1guitar.tistory.com/49)   |
