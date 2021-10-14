@@ -9,18 +9,22 @@
 ## 혼자 취미로 했던 학습
 
 ## 울트라러닝에 대한 메타학습
-2021.09.17 [울트라러닝에 앞서](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-intro/)  
-2021.09.22 [울트라러닝의 9가지 법칙](https://h1guitar.tistory.com/22)  
-2021.09.24 [[법칙1] 메타학습 : 먼저 지도를 그려라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-1/)  
-2021.09.25 [[법칙2] 집중하기 : 짧은 시간에 집중도를 높여라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-2/)  
-2021.09.25 [[법칙3] 직접하기: 목표를 향해 똑바로 나아가라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-3/)  
-2021.09.27 [[법칙4] 특화학습 : 취약점을 공략하라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-4/)  
-2021.10.06 **비전탐색** : [내 비전 생각하기](https://h1guitar.tistory.com/59)
+| 날짜 | 분류 | 링크 |
+| :-----------:| :-----------: | :------------------- |
+| 2021.09.17 | 개념 | [울트라러닝에 앞서](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-intro/)  |
+| 2021.09.22 | 개념 | [울트라러닝의 9가지 법칙](https://h1guitar.tistory.com/22)  |
+| 2021.09.24 | 개념 | [[법칙1] 메타학습 : 먼저 지도를 그려라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-1/)  |
+| 2021.09.25 | 개념 | [[법칙2] 집중하기 : 짧은 시간에 집중도를 높여라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-2/)  |
+| 2021.09.25 | 개념 | [[법칙3] 직접하기: 목표를 향해 똑바로 나아가라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-3/)  |
+| 2021.09.27 | 개념 | [[법칙4] 특화학습 : 취약점을 공략하라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-4/)  |
+| 2021.10.06 | *비전탐색 : [내 비전 생각하기](https://h1guitar.tistory.com/59) |
 
 ## iOS개발자에 대한 메타학습
-2021.09.24 [개발자가 알아야할 기본지식 탐색](https://nylonguitarist.notion.site/0c71b8ed55004fd7895767e07b914045)  
-2021.09.24 [내가 할수 있는 범위 안에서의 학습경로 탐색](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  
-2021.09.24 [개발자에 대한 학습동기](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  
+| 날짜 | 링크 |
+| :-----------:| :-----------: | :------------------- |
+| 2021.09.24 | [개발자가 알아야할 기본지식 탐색](https://nylonguitarist.notion.site/0c71b8ed55004fd7895767e07b914045)  |
+| 2021.09.24 | [내가 할수 있는 범위 안에서의 학습경로 탐색](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
+| 2021.09.24 | [개발자에 대한 학습동기](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
 
 ## Study Log
 | 날짜 | 분류 | 링크 |
