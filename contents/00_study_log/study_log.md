@@ -33,8 +33,8 @@
 | 2021.09.26 | 스위프트문법 | [기본 데이터 타입](https://h1guitar.tistory.com/34)   |
 | 2021.09.27 | 스위프트문법 | [Any, AnyObject, nil](https://h1guitar.tistory.com/36?category=959106)   |
 | 2021.09.27 | 스위프트문법 | [컬렉션 타입 (Array, Dictionary, Set) ](https://bit.ly/3mBJI0N)   |
-| 2021.09.27 | #중간점검 | [[법칙 3] 직접 하기 → 실천편](https://h1guitar.tistory.com/38)   |
-| 2021.09.27 | #학습목표보강 | [(업데이트) 개발공부 플랜 (21.09.27)](https://h1guitar.tistory.com/39)   |
+| 2021.09.27 | *중간점검 | [[법칙 3] 직접 하기 → 실천편](https://h1guitar.tistory.com/38)   |
+| 2021.09.27 | *학습목표보강 | [(업데이트) 개발공부 플랜 (21.09.27)](https://h1guitar.tistory.com/39)   |
 | 2021.09.28 | 스위프트문법 | [코멘트](https://h1guitar.tistory.com/40)   |
 | 2021.09.28 | 스위프트문법 | [튜플](https://h1guitar.tistory.com/41)   |
 | 2021.09.28 | 스위프트문법 | [불리안](https://h1guitar.tistory.com/42)   |
@@ -47,7 +47,7 @@
 | 2021.09.30 | 스위프트문법 | [Function](https://bit.ly/3iGBL9k)   |
 | 2021.09.30 | 스위프트문법 | [현재까지 배운 문법 정리](https://bit.ly/2ZUgTVp)   |
 | 2021.10.01 | 스위프트문법 | [플로우 컨트롤 복습하기 (21.09.5주)](https://h1guitar.tistory.com/49)   |
-| 2021.10.02 | #중간점검 |  [문법 공부 중 느낀 점](https://h1guitar.tistory.com/51)   |
+| 2021.10.02 | *중간점검 |  [문법 공부 중 느낀 점](https://h1guitar.tistory.com/51)   |
 | 2021.10.02 | 스위프트문법 | [21.9월.5주 복습(토) - 플로우 컨트롤](https://h1guitar.tistory.com/52)   |
 | 2021.10.03 | 스위프트문법 | [21.9월.5주 복습(일) - 플로우 컨트롤](https://h1guitar.tistory.com/53)   |
 | 2021.10.04 | 스위프트문법 | [21.9월.5주 복습(월) - 플로우 컨트롤](https://h1guitar.tistory.com/54)   |
@@ -55,24 +55,24 @@
 | 2021.10.05 | 스위프트문법 | [함수 응용하기](https://h1guitar.tistory.com/56)(아침공부)(저녁공부)   |
 | 2021.10.06 | 스위프트문법 | [기본함수사용능력 테스트](https://h1guitar.tistory.com/57)(아침공부)(점심공부)   |
 | 2021.10.06 | 스위프트문법 | [함수의 고급기능](https://bit.ly/2YyjHav)(아침공부)(점심공부)   |
-| 2021.10.06 | #비전탐색 | [내 비전 생각하기](https://bit.ly/3oGQHIj)   |
+| 2021.10.06 | *비전탐색 | [내 비전 생각하기](https://bit.ly/3oGQHIj)   |
 | 2021.10.07 | 스위프트문법 | [함수의 고급기능(오버로드,In-out parameter,함수안에 함수를 넣기)](https://bit.ly/2YyjHav)(아침공부)   |
 | 2021.10.07 | 스위프트문법 | [옵셔널&고급기능](https://bit.ly/3oKpbJU)(점심공부)(저녁공부)   |
 | 2021.10.08 | 스위프트문법 | [옵셔널 도전과제](https://bit.ly/3uSJh5H)(아침공부)(점심공부)   |
-| 2021.10.08 | #메타인지 | [21년9월습관피드백](https://bit.ly/3Dn7Ydz)   |
+| 2021.10.08 | *메타인지 | [21년9월습관피드백](https://bit.ly/3Dn7Ydz)   |
 | 2021.10.09 | 스위프트문법 | [Collection-Array](https://bit.ly/2Ywc04R)(점심공부)(저녁공부)   |
 | 2021.10.10 | 스위프트문법 | [Collection-Dictionary](https://bit.ly/3akq03Q)(아침공부)   |
 | 2021.10.10 | 스위프트문법 | [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 | 2021.10.10 | 스위프트문법 | [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)   |
 | 2021.10.11 | 스위프트문법 | [구조체와 클래스](https://bit.ly/3oPU93u)(아침공부)   |
-| 2021.10.11 | @하루_피드백 | [211011(월)피드백](https://bit.ly/3ltHRvq)   |
+| 2021.10.11 | *하루_피드백 | [211011(월)피드백](https://bit.ly/3ltHRvq)   |
 | 2021.10.12 | 스위프트문법 | [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)(저녁공부)   |
-| 2021.10.12 | #서평 | [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)   |
-| 2021.10.12 | @하루_피드백 | [211012(화)피드백](https://bit.ly/3DC5Gr1)   |
+| 2021.10.12 | *서평 | [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)   |
+| 2021.10.12 | *하루_피드백 | [211012(화)피드백](https://bit.ly/3DC5Gr1)   |
 | 2021.10.13 | 스위프트문법 | [Protocol](https://bit.ly/30bFJjI)(아침공부)   |
 | 2021.10.13 | 스위프트문법 | [Property](https://bit.ly/3lypfub)(아침공부) |
-| 2021.10.13 | @주간_피드백 | [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)   |
-| 2021.10.13 | @하루_피드백 | [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)   |
+| 2021.10.13 | *주간_피드백 | [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)   |
+| 2021.10.13 | *하루_피드백 | [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)   |
 | 2021.10.14 | 스위프트문법 | [Property:Stored,Computed,didSet,Lazy](https://bit.ly/3lypfub)(아침공부)   |
 | 2021.10.14 | 스위프트문법 | [Property VS Method](https://h1guitar.tistory.com/70)(낮공부)   |
 
