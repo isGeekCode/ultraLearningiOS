@@ -82,7 +82,9 @@
 | 2021.10.14 | 스위프트문법 | [Method 개념 및 실습](https://h1guitar.tistory.com/71)(낮공부)(밤공부)   |
 | 2021.10.14 | * 하루_피드백 * | [211014(목)피드백](https://blog.naver.com/h1guitar/222537240039)   |
 | 2021.10.15 | 스위프트문법 | [Method 내용추가 extension](https://h1guitar.tistory.com/71)(아침공부)   |
-
+| 2021.10.15 | * 하루_피드백 * | [211015(금)피드백](https://bit.ly/3ARhQdP)  |  
+| 2021.10.16 | 스위프트문법 | [클래스 개념](https://h1guitar.tistory.com/72)(아침공부)   |
+| 2021.10.15 | * 하루_피드백 * | [211016(토)피드백]()  |  
 
 
 
