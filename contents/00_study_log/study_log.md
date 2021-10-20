@@ -95,6 +95,7 @@
 | 2021.10.19 | RPA | [RPA란?](https://h1guitar.tistory.com/74)(저녁공부)   |
 | 2021.10.19 | * 하루_피드백 * | [211019(화)피드백](https://bit.ly/3jguz3Z)  |  
 | 2021.10.20 | 스위프트문법 | [생성자,2-phase Initialization,Convenience Initializer](https://bit.ly/3aUiywy)(낮공부)   |
+| 2021.10.20 | * 하루_피드백 * | [211020(수)피드백](https://bit.ly/3B1flpo)  |  
 
 ---
 
