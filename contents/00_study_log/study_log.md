@@ -92,10 +92,13 @@
 | 2021.10.18 | * 하루_피드백 * | [211018(월)피드백](https://bit.ly/30Hg8Qd)  |  
 | 2021.10.19 | 스위프트문법 | [상속 개념을 코드로 익히기(내용추가)](https://bit.ly/3n051Jz)(아침공부)   |
 | 2021.10.19 | 스위프트문법 | [클래스상속은 언제하면 좋을까?](https://h1guitar.tistory.com/75)(저녁공부)   |
-| 2021.10.19 | RPA | [RPA란?](https://h1guitar.tistory.com/74)(저녁공부)   |
+| 2021.10.19 | 데이터사이언스 | [RPA란?](https://h1guitar.tistory.com/74)(저녁공부)   |
 | 2021.10.19 | * 하루_피드백 * | [211019(화)피드백](https://bit.ly/3jguz3Z)  |  
 | 2021.10.20 | 스위프트문법 | [생성자,2-phase Initialization,Convenience Initializer](https://bit.ly/3aUiywy)(낮공부)   |
 | 2021.10.20 | * 하루_피드백 * | [211020(수)피드백](https://bit.ly/3B1flpo)  |  
+| 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵](https://h1guitar.tistory.com/77)(낮공부)   |
+| 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵 (나의 버전)](https://h1guitar.tistory.com/78)(낮공부)   |
+| 2021.10.21 | 데이터사이언스 | []()(낮공부)   |
 
 ---
 
