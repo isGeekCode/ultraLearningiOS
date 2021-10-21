@@ -99,8 +99,12 @@
 | 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵 탐색](https://h1guitar.tistory.com/77)(낮공부)   |
 | 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵 (나의 버전)](https://h1guitar.tistory.com/78)(낮공부)   |
 | 2021.10.21 | iOS | [원피스 현상금 랭킹앱 만들기 - 테이블뷰 기초개념 (미완)](https://h1guitar.tistory.com/79)(낮공부)   |
-| 2021.10.21 | * 하루_피드백 * | [211021(목)피드백]()  |  
+| 2021.10.21 | * 하루_피드백 * | [211021(목)피드백](https://bit.ly/3jnYgjK)  |  
+| 2021.10.22 | iOS | [랭킹리스트앱 깃허브 레포지토리 생성](https://github.com/wisehyun0814/iOS_bountyListApp)(아침공부)   |
 
+
+
+https://github.com/wisehyun0814/iOS_bountyListApp
 ---
 
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
