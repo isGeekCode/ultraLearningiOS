@@ -69,46 +69,47 @@
 | 2021.10.10 | 스위프트문법 | [Collection-Set](https://bit.ly/3AuKUHU)(점심공부)  
 | 2021.10.10 | 스위프트문법 | [Collection-CLosure,Capturing Values](https://bit.ly/3oNJlCN)(점심공부)   |
 | 2021.10.11 | 스위프트문법 | [구조체와 클래스](https://bit.ly/3oPU93u)(아침공부)   |
-| 2021.10.11 | * 하루_피드백 * | [211011(월)피드백](https://bit.ly/3ltHRvq)   |
+| 2021.10.11 | * 하루_피드백 * | [211011(월) 피드백](https://bit.ly/3ltHRvq)   |
 | 2021.10.12 | 스위프트문법 | [Struct만들기 도전과제](https://bit.ly/3oTcY5G)(아침공부)(저녁공부)   |
 | 2021.10.12 | * 서평 * | [아주작은습관의힘: 하루에 1%씩 바뀌면 생기는 일](https://bit.ly/3mI0k6R)   |
-| 2021.10.12 | * 하루_피드백 * | [211012(화)피드백](https://bit.ly/3DC5Gr1)   |
+| 2021.10.12 | * 하루_피드백 * | [211012(화) 피드백](https://bit.ly/3DC5Gr1)   |
 | 2021.10.13 | 스위프트문법 | [Protocol](https://bit.ly/30bFJjI)(아침공부)   |
 | 2021.10.13 | 스위프트문법 | [Property](https://bit.ly/3lypfub)(아침공부) |
 | 2021.10.13 | * 주간_피드백 * | [습관추적지 _ 10월 2주차](https://blog.naver.com/h1guitar/222535722657)   |
-| 2021.10.13 | * 하루_피드백 * | [211013(수)피드백](https://blog.naver.com/h1guitar/222536198223)   |
+| 2021.10.13 | * 하루_피드백 * | [211013(수) 피드백](https://blog.naver.com/h1guitar/222536198223)   |
 | 2021.10.14 | 스위프트문법 | [Property:Stored,Computed,didSet,Lazy](https://bit.ly/3lypfub)(아침공부)   |
 | 2021.10.14 | 스위프트문법 | [Property VS Method](https://h1guitar.tistory.com/70)(낮공부)   |
 | 2021.10.14 | 스위프트문법 | [Method 개념 및 실습](https://h1guitar.tistory.com/71)(낮공부)(밤공부)   |
-| 2021.10.14 | * 하루_피드백 * | [211014(목)피드백](https://blog.naver.com/h1guitar/222537240039)   |
+| 2021.10.14 | * 하루_피드백 * | [211014(목) 피드백](https://blog.naver.com/h1guitar/222537240039)   |
 | 2021.10.15 | 스위프트문법 | [Method 내용추가 extension](https://h1guitar.tistory.com/71)(아침공부)   |
-| 2021.10.15 | * 하루_피드백 * | [211015(금)피드백](https://bit.ly/3ARhQdP)  |  
+| 2021.10.15 | * 하루_피드백 * | [211015(금) 피드백](https://bit.ly/3ARhQdP)  |  
 | 2021.10.16 | 스위프트문법 | [클래스 개념](https://h1guitar.tistory.com/72)(아침공부)   |
-| 2021.10.16 | * 하루_피드백 * | [211016(토)피드백](https://bit.ly/3ASfMSR)  |  
+| 2021.10.16 | * 하루_피드백 * | [211016(토) 피드백](https://bit.ly/3ASfMSR)  |  
 | 2021.10.17 | 스위프트문법 | [클래스(내용추가)언제 클래스?스트럭트?](https://bit.ly/3jaGJv3)(저녁공부)   |
-| 2021.10.17 | * 하루_피드백 * | [211017(일)피드백](https://bit.ly/3p9NAc5)  |  
-| 2021.10.17 | * 주간_피드백 * | [21-10월(3)주간피드백](https://bit.ly/3FWvXCE)  |  
+| 2021.10.17 | * 하루_피드백 * | [211017(일) 피드백](https://bit.ly/3p9NAc5)  |  
+| 2021.10.17 | * 주간_피드백 * | [21-10월(3) 주간피드백](https://bit.ly/3FWvXCE)  |  
 | 2021.10.18 | 스위프트문법 | [상속 개념을 코드로 익히기](https://bit.ly/3n051Jz)(점심공부)   |
 | 2021.10.18 | * 하루_피드백 * | [211018(월)피드백](https://bit.ly/30Hg8Qd)  |  
 | 2021.10.19 | 스위프트문법 | [상속 개념을 코드로 익히기(내용추가)](https://bit.ly/3n051Jz)(아침공부)   |
 | 2021.10.19 | 스위프트문법 | [클래스상속은 언제하면 좋을까?](https://h1guitar.tistory.com/75)(저녁공부)   |
 | 2021.10.19 | 데이터사이언스 | [RPA란?](https://h1guitar.tistory.com/74)(저녁공부)   |
-| 2021.10.19 | * 하루_피드백 * | [211019(화)피드백](https://bit.ly/3jguz3Z)  |  
+| 2021.10.19 | * 하루_피드백 * | [211019(화) 피드백](https://bit.ly/3jguz3Z)  |  
 | 2021.10.20 | 스위프트문법 | [생성자,2-phase Initialization,Convenience Initializer](https://bit.ly/3aUiywy)(낮공부)   |
-| 2021.10.20 | * 하루_피드백 * | [211020(수)피드백](https://bit.ly/3B1flpo)  |  
+| 2021.10.20 | * 하루_피드백 * | [211020(수) 피드백](https://bit.ly/3B1flpo)  |  
 | 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵 탐색](https://h1guitar.tistory.com/77)(낮공부)   |
 | 2021.10.21 | 데이터사이언스 | [데이터 사이언스 학습 로드맵 (나의 버전)](https://h1guitar.tistory.com/78)(낮공부)   |
 | 2021.10.21 | iOS | [원피스 현상금 랭킹앱 만들기 - 테이블뷰 기초개념 (미완)](https://h1guitar.tistory.com/79)(낮공부)   |
-| 2021.10.21 | * 하루_피드백 * | [211021(목)피드백](https://bit.ly/3jnYgjK)  |  
+| 2021.10.21 | * 하루_피드백 * | [211021(목) 피드백](https://bit.ly/3jnYgjK)  |  
 | 2021.10.22 | iOS | [랭킹리스트앱 깃허브 레포지토리 생성](https://github.com/wisehyun0814/iOS_bountyListApp)(아침공부)(낮공부) |
 | 2021.10.22 | iOS | [랭킹리스트앱 만들기 - 테이블뷰 기초개념 (미완)](https://h1guitar.tistory.com/79)(낮공부)   |
-| 2021.10.22 | * 하루_피드백 * | [211022(금)피드백](https://blog.naver.com/h1guitar/222545354322)  |  
+| 2021.10.22 | * 하루_피드백 * | [211022(금) 피드백](https://blog.naver.com/h1guitar/222545354322)  |  
 | 2021.10.23 | RPA | UIpath 설치 및 실습 |
 | 2021.10.23 | * 성장 * | MBTI 결과 분석 및 스트렝스 지표 분석 |
-| 2021.10.23 | * 하루_피드백 * | [211023(토)피드백](https://bit.ly/3E5GSbp)  |  
+| 2021.10.23 | * 하루_피드백 * | [211023(토) 피드백](https://bit.ly/3E5GSbp)  |  
 | 2021.10.24 | * 성장 * | 스트렝스파인더 이해하기 |
-| 2021.10.24 | * 하루_피드백 * | [211024(일)피드백](https://bit.ly/2ZgKJDg)  |  
-
+| 2021.10.24 | * 하루_피드백 * | [211024(일) 피드백](https://bit.ly/2ZgKJDg)  |  
+| 2021.10.24 | * 주간_피드백 * | [21-10월(4주) 주간피드백](https://bit.ly/3EeL7Bg)  |  
+| 2021.10.24 | * 주간_목표 * | [21-10월(5주) 주간목표](https://bit.ly/3m6Ozbc)  |  
 
 
 
