@@ -10,7 +10,7 @@
 
 ## 울트라러닝에 대한 메타학습
 | 날짜 | 분류 | 링크 |
-| :-----------:| :-----------: | :------------------- |
+| :-----------:| :-----------: | :-------------------: |
 | 2021.09.17 | 개념 | [울트라러닝에 앞서](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-intro/)  |
 | 2021.09.22 | 개념 | [울트라러닝의 9가지 법칙](https://h1guitar.tistory.com/22)  |
 | 2021.09.24 | 개념 | [[법칙1] 메타학습 : 먼저 지도를 그려라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-1/)  |
@@ -21,14 +21,14 @@
 
 ## iOS개발자에 대한 메타학습
 | 날짜 | 링크 |
-| :-----------:| :------------------- |
+| :-----------:| :-------------------: |
 | 2021.09.24 | [개발자가 알아야할 기본지식 탐색](https://nylonguitarist.notion.site/0c71b8ed55004fd7895767e07b914045)  |
 | 2021.09.24 | [내가 할수 있는 범위 안에서의 학습경로 탐색](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
 | 2021.09.24 | [개발자에 대한 학습동기](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
 
 ## Study Log
 | 날짜 | 분류 | 링크 |
-| :-----------:| :-----------: | :------------------- |
+| :-----------:| :-----------: | :-------------------: |
 | 2021.09.07 | 스위프트문법 | [스위프트란](https://h1guitar.tistory.com/13) |
 | 2021.09.25 | 기본 개발지식 | [깃허브란?](https://h1guitar.tistory.com/30?category=962956) |
 | 2021.09.26 | 기본 개발지식 | [깃허브의 메뉴소개 및 로컬저장소, 이슈관리](https://h1guitar.tistory.com/31?category=962956)   |
@@ -130,16 +130,16 @@
 | 2021.11.02 | * 하루_피드백 * | [211102(화) 피드백](https://bit.ly/3GJYbkj)  |  
 | 2021.11.03 | iOS | [원피스 현상금 랭킹앱 만들기(3) - 테이블뷰 프로토콜 문서화작업완료](https://h1guitar.tistory.com/81)(낮공부)   |
 | 2021.11.03 | iOS | [원피스 현상금 랭킹앱 만들기(4) - 커스텀셀만들기(미완)](https://h1guitar.tistory.com/82)(밤공부)   |
-| 2021.11.04 | iOS | [원피스 현상금 랭킹앱 만들기(4) - 커스텀셀만들기](https://h1guitar.tistory.com/82)(아침공부)   |
+| 2021.11.03 | * 하루_피드백 * | [211103(수) 피드백](https://bit.ly/3BWOueZ)  |  
+| 2021.11.04 | iOS | [원피스 현상금 랭킹앱 만들기(4) - 커스텀셀만들기 문서화 완료](https://h1guitar.tistory.com/82)(아침공부)(밤공부)   |
+| 2021.11.04 | iOS | [원피스 현상금 랭킹앱 만들기(5) - 디테일뷰 모달로 띄우기(미완)](https://h1guitar.tistory.com/83)(아침공부)(밤공부)   |
+| 2021.11.04 | * 하루_피드백 * | [211104(목) 피드백](https://bit.ly/3bDkIBb)  |  
 
 
 
 ---
-
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
 
 
 ## 지식공유자
 Gikko 방현석  
-
-
