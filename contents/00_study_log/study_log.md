@@ -144,9 +144,13 @@
 | 2021.11.08 | iOS | [원피스 현상금 랭킹앱 만들기(6) - 뷰컨트롤러 간 데이터 전달하기(완료)](https://h1guitar.tistory.com/84)(낮공부)   |
 | 2021.11.08 | * 하루_피드백 * | [211108(월) 피드백](https://bit.ly/302EumQ)  |  
 | 2021.11.08 | iOS | [원피스 현상금 랭킹앱 만들기(7) - 코드회고)](https://h1guitar.tistory.com/85)(낮공부)   |
+| 2021.11.09 | 기본 개발지식 | [깃허브: git pull You have not concluded your merge](https://h1guitar.tistory.com/85)   |
+| 2021.11.09 | * 하루_피드백 * | [211109(화) 피드백](https://bit.ly/3BWmGXT)  |  
 
 
 
+
+https://h1guitar.tistory.com/85
 
 
 ---
