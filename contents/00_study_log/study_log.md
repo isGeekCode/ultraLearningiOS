@@ -158,6 +158,10 @@
 | 2021.11.12 | iOS | [투두리스트앱 만들기(진행중)-태스크관리뷰 구현](https://h1guitar.tistory.com/89)(낮공부)   |
 | 2021.11.12 | * 하루_피드백 * | [211112(금) 피드백](https://bit.ly/3wH6kRO)  |  
 | 2021.11.12 | * 요약훈련 * | [울트라러닝 챕터6 : 직접하기](https://bit.ly/3kvNt7M)   |
+| 2021.11.13 | 취업관련 | 면접준비 |
+| 2021.11.13 | iOS | [투두리스트앱 만들기(진행중)-버튼구현](https://h1guitar.tistory.com/89)(낮공부)   |
+
+
 
 ---
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
