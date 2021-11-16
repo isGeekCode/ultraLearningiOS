@@ -164,7 +164,8 @@
 | 2021.11.14 | 취업관련 | 면접준비 |
 | 2021.11.14 | * 하루_피드백 * | [211114(일) 피드백](https://bit.ly/3wJqnzf)  |  
 | 2021.11.15 | * 하루_피드백 * | [211115(월) 피드백](https://bit.ly/3CgpFur)  |  
-| 2021.11.15 | iOS | [시험을 통한 피드백](https://h1guitar.tistory.com/90)  |  
+| 2021.11.15 | iOS | [면접을 통한 피드백](https://h1guitar.tistory.com/90)  |  
+| 2021.11.16 | iOS | [구조체와 클래스 복습](https://h1guitar.tistory.com/91)  |  
 
 
 
