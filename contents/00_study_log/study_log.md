@@ -166,6 +166,8 @@
 | 2021.11.15 | * 하루_피드백 * | [211115(월) 피드백](https://bit.ly/3CgpFur)  |  
 | 2021.11.15 | iOS | [면접을 통한 피드백](https://h1guitar.tistory.com/90)  |  
 | 2021.11.16 | iOS | [구조체와 클래스 복습](https://h1guitar.tistory.com/91)  |  
+| 2021.11.16 | iOS | [arc의 간단 개념](https://h1guitar.tistory.com/92)  |  
+| 2021.11.17 | * 하루_피드백 * | [211117(수) 피드백]()  |  
 
 
 
