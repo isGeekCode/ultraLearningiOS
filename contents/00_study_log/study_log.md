@@ -169,6 +169,8 @@
 | 2021.11.17 | iOS | [arc의 간단 개념](https://h1guitar.tistory.com/92)  |  
 | 2021.11.17 | * 하루_피드백 * | [211117(수) 피드백](https://bit.ly/3Dq2Khz)  |  
 | 2021.11.17 | * 요약훈련 * | [울트라러닝 챕터7 : 특화학습](https://bit.ly/3DpIGMr)   |
+| 2021.11.18 | 스위프트문법 | [옵셔널 복습](https://h1guitar.tistory.com/93)  |  
+| 2021.11.18 | * 하루_피드백 * | [211118(목) 피드백](https://bit.ly/3npAIgK)  |  
 
 
 
