@@ -177,10 +177,9 @@
 | 2021.11.20 | * 하루_피드백 * | [211120(토) 피드백](https://bit.ly/30NxGdu)  |  
 | 2021.11.20 | * 요약훈련 * | [울트라러닝 챕터10 : 유지](https://h1guitar.tistory.com/96)   |
 | 2021.11.21 | * 하루_피드백 * | [211121(일) 피드백](https://bit.ly/3cPiCyN)  |  
+| 2021.11.22 | iOS | [iOS에러 : UICollectionElementKindSectionHeader with identifier](https://h1guitar.tistory.com/97)   |
 
 
-
-https://h1guitar.tistory.com/96
 
 
 ---
