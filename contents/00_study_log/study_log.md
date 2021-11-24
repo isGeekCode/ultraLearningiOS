@@ -182,6 +182,9 @@
 | 2021.11.22 | * 하루_피드백 * | [211122(월) 피드백](https://bit.ly/3qW7XKM)  |  
 | 2021.11.23 | * 하루_피드백 * | [211123(화) 피드백](https://bit.ly/3nI3RDP)  |  
 | 2021.11.23 | iOS | [git 에러 warning: adding embedded git repository](https://h1guitar.tistory.com/98)   |
+| 2021.11.23 | * 요약훈련 * | [울트라러닝 챕터11 : 직관](https://h1guitar.tistory.com/99)   |
+| 2021.11.24 | * 하루_피드백 * | [211124(수) 피드백](https://bit.ly/3nOlFxj)  |  
+| 2021.11.24 | * 요약훈련 * | [울트라러닝 챕터12 : ](https://h1guitar.tistory.com/100)   |
 
 
 
