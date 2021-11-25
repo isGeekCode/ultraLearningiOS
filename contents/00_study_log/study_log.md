@@ -184,7 +184,9 @@
 | 2021.11.23 | iOS | [git 에러 warning: adding embedded git repository](https://h1guitar.tistory.com/98)   |
 | 2021.11.23 | * 요약훈련 * | [울트라러닝 챕터11 : 직관](https://h1guitar.tistory.com/99)   |
 | 2021.11.24 | * 하루_피드백 * | [211124(수) 피드백](https://bit.ly/3nOlFxj)  |  
-| 2021.11.24 | * 요약훈련 * | [울트라러닝 챕터12 : ](https://h1guitar.tistory.com/100)   |
+| 2021.11.24 | * 요약훈련 * | [울트라러닝 챕터12 : 실험](https://h1guitar.tistory.com/100)   |
+| 2021.11.24 | * 하루_피드백 * | [211125(목) 피드백](https://bit.ly/3DVu7k6)  |  
+| 2021.11.24 | iOS | [투두리스트앱 만들기(진행중)-버튼구현](https://h1guitar.tistory.com/89)(낮공부)   |
 
 
 
