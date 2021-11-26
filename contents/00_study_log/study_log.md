@@ -25,6 +25,15 @@
 | 2021.09.24 | [개발자가 알아야할 기본지식 탐색](https://nylonguitarist.notion.site/0c71b8ed55004fd7895767e07b914045)  |
 | 2021.09.24 | [내가 할수 있는 범위 안에서의 학습경로 탐색](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
 | 2021.09.24 | [개발자에 대한 학습동기](https://www.notion.so/nylonguitarist/1-4b1acdc88b1b496699c7733f39bde4ec)  |
+| 2021.11.27 | [개발공부하기](https://h1guitar.tistory.com/103)  |
+
+## iOS개발 울트라러닝 프로젝트
+| 날짜 | 링크 |
+| :-----------:| :-------------------: |
+| 2021.11.27 | [울트라러닝 개발자 프로젝트(21.12월)](https://h1guitar.tistory.com/104)  |
+
+
+
 
 ## Study Log
 | 날짜 | 분류 | 링크 |
