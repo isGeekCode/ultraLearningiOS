@@ -18,6 +18,14 @@
 | 2021.09.25 | 개념 | [[법칙3] 직접하기: 목표를 향해 똑바로 나아가라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-3/)  |
 | 2021.09.27 | 개념 | [[법칙4] 특화학습 : 취약점을 공략하라](https://wisehyun0814.github.io/ultralearningproject/ultra-learning-4/)  |
 | 2021.10.06 | *비전탐색 | [내 비전 생각하기](https://h1guitar.tistory.com/59) |
+| 2021.11.18 | * 요약훈련 * | [울트라러닝 챕터8 : 인출](https://h1guitar.tistory.com/94)   |
+| 2021.11.19 | * 요약훈련 * | [울트라러닝 챕터9 : 피드백](https://h1guitar.tistory.com/95)   |
+| 2021.11.20 | * 요약훈련 * | [울트라러닝 챕터10 : 유지](https://h1guitar.tistory.com/96)   |
+| 2021.11.23 | * 요약훈련 * | [울트라러닝 챕터11 : 직관](https://h1guitar.tistory.com/99)   |
+| 2021.11.24 | * 요약훈련 * | [울트라러닝 챕터12 : 실험](https://h1guitar.tistory.com/100)   |
+| 2021.11.26 | * 요약훈련 * | [울트라러닝 챕터13 : 울트라러닝 시작하기](https://h1guitar.tistory.com/101)   |
+
+
 
 ## iOS개발자에 대한 메타학습
 | 날짜 | 링크 |
@@ -31,7 +39,6 @@
 | 날짜 | 링크 |
 | :-----------:| :-------------------: |
 | 2021.11.27 | [울트라러닝 개발자 프로젝트(21.12월)](https://h1guitar.tistory.com/104)  |
-
 
 
 
@@ -182,7 +189,7 @@
 | 2021.11.18 | * 하루_피드백 * | [211118(목) 피드백](https://bit.ly/3npAIgK)  |  
 | 2021.11.18 | * 요약훈련 * | [울트라러닝 챕터8 : 인출](https://h1guitar.tistory.com/94)   |
 | 2021.11.19 | * 하루_피드백 * | [211119(금) 피드백](https://bit.ly/3npAIgK)  |  
-| 2021.11.19 | * 요약훈련 * | [울트라러닝 챕터9 : 인출](https://h1guitar.tistory.com/95)   |
+| 2021.11.19 | * 요약훈련 * | [울트라러닝 챕터9 : 피드백](https://h1guitar.tistory.com/95)   |
 | 2021.11.20 | * 하루_피드백 * | [211120(토) 피드백](https://bit.ly/30NxGdu)  |  
 | 2021.11.20 | * 요약훈련 * | [울트라러닝 챕터10 : 유지](https://h1guitar.tistory.com/96)   |
 | 2021.11.21 | * 하루_피드백 * | [211121(일) 피드백](https://bit.ly/3cPiCyN)  |  
@@ -198,8 +205,12 @@
 | 2021.11.25 | iOS | [투두리스트앱 만들기(진행중)-버튼구현](https://h1guitar.tistory.com/89)(낮공부)   |
 | 2021.11.26 | * 하루_피드백 * | [211126(금) 피드백](https://bit.ly/3p76JKh)  |  
 | 2021.11.26 | * 요약훈련 * | [울트라러닝 챕터13 : 울트라러닝 시작하기](https://h1guitar.tistory.com/101)   |
-| 2021.11.27 | 스위프트문법 | [if문](https://h1guitar.tistory.com/102) |
+| 2021.11.27 | 스위프트문법 | [Day01_if문](https://h1guitar.tistory.com/102) |
 | 2021.11.27 | * 하루_피드백 * | [211127(토) 피드백](https://bit.ly/3FP36iL)  |  
+| 2021.11.28 | 스위프트문법 | [Day02_For-in Loops](https://h1guitar.tistory.com/105) |
+| 2021.11.28 | * 하루_피드백 * | [211128(일) 피드백](https://bit.ly/2ZBilwk)  |  
+| 2021.11.28 | * 주간_피드백 * | [21-11월(4주) 주간피드백]()  |  
+
 
 
 ---
