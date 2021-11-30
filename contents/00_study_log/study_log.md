@@ -211,6 +211,10 @@
 | 2021.11.28 | * 하루_피드백 * | [211128(일) 피드백](https://bit.ly/2ZBilwk)  |  
 | 2021.11.28 | * 주간_피드백 * | [21-11월(4주) 주간피드백](https://bit.ly/3D4OwBQ)  |  
 | 2021.11.29 | 스위프트문법 | [Day03_enum](https://h1guitar.tistory.com/106) |
+| 2021.11.29 | 스위프트문법 | [Day04_For_Loops](https://h1guitar.tistory.com/107) |
+| 2021.11.29 | 스위프트문법 | [Day05_Unwrap_Optional](https://h1guitar.tistory.com/108) |
+| 2021.11.30 | 스위프트문법 | [Day06_class](https://h1guitar.tistory.com/109) |
+| 2021.11.30 | * 하루_피드백 * | [211130(화) 피드백](https://blog.naver.com/h1guitar/222583340458)  |  
 
 
 
