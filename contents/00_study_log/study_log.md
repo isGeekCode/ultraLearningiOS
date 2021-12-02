@@ -213,8 +213,12 @@
 | 2021.11.29 | 스위프트문법 | [Day03_enum](https://h1guitar.tistory.com/106) |
 | 2021.11.29 | 스위프트문법 | [Day04_For_Loops](https://h1guitar.tistory.com/107) |
 | 2021.11.29 | 스위프트문법 | [Day05_Unwrap_Optional](https://h1guitar.tistory.com/108) |
-| 2021.11.30 | 스위프트문법 | [Day06_class](https://h1guitar.tistory.com/109) |
+| 2021.11.30 | 스위프트문법 | [Day06_class and struct(미완성)](https://h1guitar.tistory.com/109) |
 | 2021.11.30 | * 하루_피드백 * | [211130(화) 피드백](https://blog.naver.com/h1guitar/222583340458)  |  
+| 2021.12.01 | 스위프트문법 | [Day06_class and struct](https://h1guitar.tistory.com/109) |
+| 2021.12.01 | * 하루_피드백 * | [211201(수) 피드백](https://bit.ly/3EcIqAB)  |  
+| 2021.12.01 | * 월간_피드백 * | [21-11월 월간피드백](https://bit.ly/32JQLhr)  |  
+| 2021.12.02 | * 하루_피드백 * | [211202(목) 피드백]()  |  
 
 
 
