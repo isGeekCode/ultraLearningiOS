@@ -225,7 +225,8 @@
 | 2021.12.02 | * 울트라러닝_피드백 * | [211202(목) 울트라러닝_일간피드백](https://h1guitar.tistory.com/113)  |  
 | 2021.12.03 | * 하루_피드백 * | [211203(금) 피드백](https://bit.ly/3DxrBj3)  |  
 | 2021.12.03 | 스위프트문법 | [Day10_closure](https://h1guitar.tistory.com/114) |
-
+| 2021.12.03 | * 울트라러닝_피드백 * | [211203(금) 울트라러닝_일간피드백](https://h1guitar.tistory.com/115)  |  
+| 2021.12.04 | 스위프트문법 | [Day01-10_복습](https://h1guitar.tistory.com/116) |
 
 ---
 **스콧영 (Scott Young)의 저서 [울트라러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162541289)** 을 따라 응용하였습니다.
