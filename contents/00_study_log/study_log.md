@@ -230,7 +230,8 @@
 | 2021.12.05 | * 하루_피드백 * | [211205(일) 피드백](https://bit.ly/3Gcsu20)  |  
 | 2021.12.06 | * 주간_피드백 * | [21-12월(1주) 주간피드백](https://h1guitar.tistory.com/117)  |  
 | 2021.12.07 | 스위프트문법 | [Day11_extra_Tuple](https://h1guitar.tistory.com/118) |
-| 2021.12.07 | 스위프트문법 | [교육_2일차](https://h1guitar.tistory.com/119) |
+| 2021.12.07 | * 하루_피드백 * | [교육_2일차](https://h1guitar.tistory.com/119) |
+| 2021.12.08 | 스위프트문법 | [Array](https://h1guitar.tistory.com/120) |
 
 
 
