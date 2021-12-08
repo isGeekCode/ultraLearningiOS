@@ -232,9 +232,9 @@
 | 2021.12.07 | 스위프트문법 | [Day11_extra_Tuple](https://h1guitar.tistory.com/118) |
 | 2021.12.07 | * 하루_피드백 * | [교육_2일차](https://h1guitar.tistory.com/119) |
 | 2021.12.08 | 스위프트문법 | [Array](https://h1guitar.tistory.com/120) |
-
-
-
+| 2021.12.08 | 스위프트문법 | [Enumeration (열거형)](https://h1guitar.tistory.com/121)  
+| 2021.12.08 | 스위프트문법 | [조건문(IF, Switch)](https://h1guitar.tistory.com/122)  |
+| 2021.12.08 | 스위프트문법 | [Loops(반복문)](https://h1guitar.tistory.com/124)  |
 
 
 
