@@ -237,6 +237,7 @@
 | 2021.12.08 | 스위프트문법 | [Loops(반복문)](https://h1guitar.tistory.com/124)  |
 | 2021.12.08 | * 하루_피드백 * | [교육_3일차](https://h1guitar.tistory.com/125) |
 | 2021.12.09 | 스위프트문법 | [structures and Classes (+ enum)](https://h1guitar.tistory.com/126)  |
+| 2021.12.09 | * 하루_피드백 * | [교육_4일차](https://h1guitar.tistory.com/125) |
 
 
 
